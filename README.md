@@ -1,3 +1,7 @@
+Fixed
+Convert Diagnosticable to a mixin #51495
+https://github.com/flutter/flutter/pull/51495
+
 # 🎨 Panache
 
 A [Flutter](https://flutter.io) [Material Theme](https://docs.flutter.io/flutter/material/ThemeData-class.html) editor. 
